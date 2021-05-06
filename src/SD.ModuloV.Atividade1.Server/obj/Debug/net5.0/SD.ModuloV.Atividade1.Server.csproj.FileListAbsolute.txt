@@ -1,0 +1,16 @@
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\bin\Debug\net5.0\SD.ModuloV.Atividade1.Server.exe
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\bin\Debug\net5.0\SD.ModuloV.Atividade1.Server.deps.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\bin\Debug\net5.0\SD.ModuloV.Atividade1.Server.runtimeconfig.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\bin\Debug\net5.0\SD.ModuloV.Atividade1.Server.runtimeconfig.dev.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\bin\Debug\net5.0\SD.ModuloV.Atividade1.Server.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\bin\Debug\net5.0\ref\SD.ModuloV.Atividade1.Server.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\bin\Debug\net5.0\SD.ModuloV.Atividade1.Server.pdb
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\obj\Debug\net5.0\SD.ModuloV.Atividade1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\obj\Debug\net5.0\SD.ModuloV.Atividade1.Server.AssemblyInfoInputs.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\obj\Debug\net5.0\SD.ModuloV.Atividade1.Server.AssemblyInfo.cs
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\obj\Debug\net5.0\SD.ModuloV.Atividade1.Server.csproj.CoreCompileInputs.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\obj\Debug\net5.0\SD.ModuloV.Atividade1.Server.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\obj\Debug\net5.0\ref\SD.ModuloV.Atividade1.Server.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\obj\Debug\net5.0\SD.ModuloV.Atividade1.Server.pdb
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\obj\Debug\net5.0\SD.ModuloV.Atividade1.Server.genruntimeconfig.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade1.Server\obj\Debug\net5.0\SD.ModuloV.Atividade1.Server.csprojAssemblyReference.cache

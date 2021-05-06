@@ -1,0 +1,15 @@
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\bin\Debug\net5.0\SD.ModuloV.Atividade5.Client.exe
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\bin\Debug\net5.0\SD.ModuloV.Atividade5.Client.deps.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\bin\Debug\net5.0\SD.ModuloV.Atividade5.Client.runtimeconfig.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\bin\Debug\net5.0\SD.ModuloV.Atividade5.Client.runtimeconfig.dev.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\bin\Debug\net5.0\SD.ModuloV.Atividade5.Client.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\bin\Debug\net5.0\ref\SD.ModuloV.Atividade5.Client.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\bin\Debug\net5.0\SD.ModuloV.Atividade5.Client.pdb
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\obj\Debug\net5.0\SD.ModuloV.Atividade5.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\obj\Debug\net5.0\SD.ModuloV.Atividade5.Client.AssemblyInfoInputs.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\obj\Debug\net5.0\SD.ModuloV.Atividade5.Client.AssemblyInfo.cs
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\obj\Debug\net5.0\SD.ModuloV.Atividade5.Client.csproj.CoreCompileInputs.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\obj\Debug\net5.0\SD.ModuloV.Atividade5.Client.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\obj\Debug\net5.0\ref\SD.ModuloV.Atividade5.Client.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\obj\Debug\net5.0\SD.ModuloV.Atividade5.Client.pdb
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Client\obj\Debug\net5.0\SD.ModuloV.Atividade5.Client.genruntimeconfig.cache

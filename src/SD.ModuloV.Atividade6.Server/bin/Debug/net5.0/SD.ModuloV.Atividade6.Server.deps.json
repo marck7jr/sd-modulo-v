@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SD.ModuloV.Atividade6.Server/1.0.0": {
+        "runtime": {
+          "SD.ModuloV.Atividade6.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SD.ModuloV.Atividade6.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

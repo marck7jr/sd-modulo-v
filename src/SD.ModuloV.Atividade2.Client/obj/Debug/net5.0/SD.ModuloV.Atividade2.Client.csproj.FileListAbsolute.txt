@@ -1,0 +1,16 @@
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\bin\Debug\net5.0\SD.ModuloV.Atividade2.Client.exe
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\bin\Debug\net5.0\SD.ModuloV.Atividade2.Client.deps.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\bin\Debug\net5.0\SD.ModuloV.Atividade2.Client.runtimeconfig.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\bin\Debug\net5.0\SD.ModuloV.Atividade2.Client.runtimeconfig.dev.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\bin\Debug\net5.0\SD.ModuloV.Atividade2.Client.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\bin\Debug\net5.0\ref\SD.ModuloV.Atividade2.Client.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\bin\Debug\net5.0\SD.ModuloV.Atividade2.Client.pdb
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\obj\Debug\net5.0\SD.ModuloV.Atividade2.Client.csprojAssemblyReference.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\obj\Debug\net5.0\SD.ModuloV.Atividade2.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\obj\Debug\net5.0\SD.ModuloV.Atividade2.Client.AssemblyInfoInputs.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\obj\Debug\net5.0\SD.ModuloV.Atividade2.Client.AssemblyInfo.cs
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\obj\Debug\net5.0\SD.ModuloV.Atividade2.Client.csproj.CoreCompileInputs.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\obj\Debug\net5.0\SD.ModuloV.Atividade2.Client.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\obj\Debug\net5.0\ref\SD.ModuloV.Atividade2.Client.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\obj\Debug\net5.0\SD.ModuloV.Atividade2.Client.pdb
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade2.Client\obj\Debug\net5.0\SD.ModuloV.Atividade2.Client.genruntimeconfig.cache

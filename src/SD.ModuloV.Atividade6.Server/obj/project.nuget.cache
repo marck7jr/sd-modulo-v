@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nh+SAbAHxbkEC94SRzQ9UkAaUGy3JizYONt0YBsW/RO+LyMACU38V3hNU8JJc3wsiuT0GkOfcu5vMC8de23CUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucim\\source\\repos\\SD.ModuloV\\src\\SD.ModuloV.Atividade6.Server\\SD.ModuloV.Atividade6.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.3\\microsoft.netcore.app.host.win-x64.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

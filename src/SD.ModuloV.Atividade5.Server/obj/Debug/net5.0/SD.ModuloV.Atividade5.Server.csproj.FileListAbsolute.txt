@@ -1,0 +1,17 @@
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\bin\Debug\net5.0\Assets\Dados.csv
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\bin\Debug\net5.0\SD.ModuloV.Atividade5.Server.exe
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\bin\Debug\net5.0\SD.ModuloV.Atividade5.Server.deps.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\bin\Debug\net5.0\SD.ModuloV.Atividade5.Server.runtimeconfig.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\bin\Debug\net5.0\SD.ModuloV.Atividade5.Server.runtimeconfig.dev.json
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\bin\Debug\net5.0\SD.ModuloV.Atividade5.Server.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\bin\Debug\net5.0\ref\SD.ModuloV.Atividade5.Server.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\bin\Debug\net5.0\SD.ModuloV.Atividade5.Server.pdb
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\obj\Debug\net5.0\SD.ModuloV.Atividade5.Server.csprojAssemblyReference.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\obj\Debug\net5.0\SD.ModuloV.Atividade5.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\obj\Debug\net5.0\SD.ModuloV.Atividade5.Server.AssemblyInfoInputs.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\obj\Debug\net5.0\SD.ModuloV.Atividade5.Server.AssemblyInfo.cs
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\obj\Debug\net5.0\SD.ModuloV.Atividade5.Server.csproj.CoreCompileInputs.cache
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\obj\Debug\net5.0\SD.ModuloV.Atividade5.Server.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\obj\Debug\net5.0\ref\SD.ModuloV.Atividade5.Server.dll
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\obj\Debug\net5.0\SD.ModuloV.Atividade5.Server.pdb
+C:\Users\lucim\source\repos\SD.ModuloV\src\SD.ModuloV.Atividade5.Server\obj\Debug\net5.0\SD.ModuloV.Atividade5.Server.genruntimeconfig.cache
